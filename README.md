@@ -1,3 +1,3 @@
-# Mini-Project-HTML/CSS fresco play (TCS)
+# Mini-Project-HTML/CSS frescoPlay(TCS)
 
-[project Statements ](project-statement.pdf)
+[Project Statements ](project-statement.pdf)
