@@ -1,0 +1,151 @@
+#navbar ul {
+    list-style: none;
+    float: left;
+  }
+  body{
+    background-color: #333;
+  }
+  #navbar ul li {
+    float: left;
+  }
+  #navbar ul li a:hover {
+  background: white;
+  color: #f7c08a;
+  
+}
+#navbar ul li a.current {
+    background: white;
+    color: #f7c08a;
+    
+  }
+  #navbar ul li a {
+    display: block;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+ 
+  #navbar {
+    background: #333;
+    color: #fff;
+    overflow: auto;
+  }
+  
+  #navbar a {
+    color: #fff;
+  }
+  #main-footer {
+    text-align: center;
+    background: #444;
+    color: #fff;
+    
+  }
+  #index-info .div1{
+    text-align: center;
+    border: ridge;
+    padding: 70px;
+    margin-top: 3px;
+    margin-left: 460px;
+    margin-right: 460px;
+    margin-bottom: 10px;
+    background-color: #fff;
+  }
+  #index-info .div2{
+    text-align: center;
+    border: ridge;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: #fff;
+  
+  }
+  #login-info .div1{
+    text-align: center;
+    border: ridge;
+    padding: 70px;
+    margin-top: 3px;
+    margin-left: 460px;
+    margin-right: 460px;
+    margin-bottom: 120px;
+    background-color: #fff;
+
+  }
+  .input{
+     
+     background-color: lightgray;
+    
+     padding-top: 8px;
+     padding-bottom: 8px;
+     padding-left: 25px;
+     padding-right: 25px;
+  }
+  .button1{
+    background-color: black;
+    color: white;
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+  }
+  .button2{
+    background-color: black;
+    color: white;
+    padding-left: 85px;
+    padding-right: 85px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+  }
+  .button3{
+    background-color: black;
+    color: white;
+    padding-left: 75px;
+    padding-right: 75px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+  }
+  .new{
+    text-decoration: none;
+    color: black;
+  }
+
+  #registration-info .div1{
+    text-align: center;
+    border: ridge;
+    padding: 50px;
+    
+    margin-left: 460px;
+    margin-right: 460px;
+    margin-bottom: 100px;
+    background-color: #fff;
+
+  }
+  #expense-info .div1{
+    text-align: center;
+    border: ridge;
+    padding: 30px;
+    
+    margin-left: 485px;
+    margin-right: 485px;
+    margin-bottom: 65px;
+    background-color: #fff;
+  }
+  .input1{
+     
+    background-color: lightgray;
+   
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 60px;
+    padding-right: 60px;
+ }
+ .input2{
+     
+    background-color: lightgray;
+   
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 85px;
+    padding-right: 85px;
+ }
